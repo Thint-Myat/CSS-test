@@ -1,0 +1,6 @@
+1. inline style sheet       (first priority)
+2. internal style sheet     (second priority)
+3. external style sheet     (third priority)
+- Cascading style sheet     (CSS)
+
+--------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+/* external style sheet */
+/* third priority */
+p{
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+}
