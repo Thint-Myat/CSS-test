@@ -5,8 +5,29 @@
     height: 30px;
 }
 
+.left {
+    display: inline-block;
+    width: 40%;
+}
+
+.right {
+    display: inline-block;
+    width: 40%;
+}
+
 .container {
-    background-color: cadetblue;
+}
+
+.img2 {
+    width: 100px;
+}
+
+.img3 {
+    width: 100px;
+}
+
+.img4 {
+    width: 200px;
 }
 
 .footer {
